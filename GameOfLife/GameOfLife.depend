@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580116755 source:c:\users\neil\documents\neil\programmation\intersemestre\gameoflife\main.cpp
+	"GameOfLife.h"
+	<iostream>
+
+1580117729 c:\users\neil\documents\neil\programmation\intersemestre\gameoflife\include\gameoflife.h
+	<vector>
+
+1580118532 source:c:\users\neil\documents\neil\programmation\intersemestre\gameoflife\src\gameoflife.cpp
+	"GameOfLife.h"
+	<iostream>
+
