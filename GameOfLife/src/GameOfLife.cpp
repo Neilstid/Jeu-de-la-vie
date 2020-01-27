@@ -211,6 +211,31 @@ void GameOfLife::GrilleDefault(int choixGrille){
             _OldGrid[22][43] = 1;
             break;
         }
+    case 4 :
+        {
+             ResizeGrille(40,85);
+            _grid[20][40] = 1;
+            _OldGrid[20][40] = 1;
+            _grid[20][41] = 1;
+            _OldGrid[20][41] = 1;
+            _grid[20][42] = 1;
+            _OldGrid[20][42] = 1;
+            _grid[20][43] = 1;
+            _OldGrid[20][43] = 1;
+            _grid[20][44] = 1;
+            _OldGrid[20][44] = 1;
+            _grid[20][45] = 1;
+            _OldGrid[20][45] = 1;
+            _grid[20][46] = 1;
+            _OldGrid[20][46] = 1;
+            _grid[20][47] = 1;
+            _OldGrid[20][47] = 1;
+            _grid[20][48] = 1;
+            _OldGrid[20][48] = 1;
+            _grid[20][49] = 1;
+            _OldGrid[20][49] = 1;
+            break;
+        }
     default://Cas par default du switch
         break;
     }
